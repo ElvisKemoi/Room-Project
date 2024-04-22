@@ -123,6 +123,7 @@ header {
 /* Main section */
 main {
 	min-height: 90vh;
+	width: 100%;
 	background-color: var(--color-1);
 	box-sizing: initial;
 }
